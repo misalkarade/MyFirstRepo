@@ -1,0 +1,8 @@
+D:\CS\Arraylist\Arraylist\bin\Debug\Arraylist.exe.config
+D:\CS\Arraylist\Arraylist\bin\Debug\Arraylist.exe
+D:\CS\Arraylist\Arraylist\bin\Debug\Arraylist.pdb
+D:\CS\Arraylist\Arraylist\obj\Debug\Arraylist.csproj.AssemblyReference.cache
+D:\CS\Arraylist\Arraylist\obj\Debug\Arraylist.csproj.SuggestedBindingRedirects.cache
+D:\CS\Arraylist\Arraylist\obj\Debug\Arraylist.csproj.CoreCompileInputs.cache
+D:\CS\Arraylist\Arraylist\obj\Debug\Arraylist.exe
+D:\CS\Arraylist\Arraylist\obj\Debug\Arraylist.pdb
